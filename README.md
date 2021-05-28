@@ -1,4 +1,4 @@
-###  :man_technologist:  [Abelethan](https://abelethan.icu)
+###  :man_technologist:  [Abelethan](https://www.abelethan.icu)
 
 👋 Hi, I'm TanMengNing,a passionate self-taught backend developer from China 🚀. 
 
@@ -10,7 +10,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** Java, ASM, Netty, Mysq
+-  **Languages :** Java
 -  **Hobbies :** ChineseChess :performing_arts: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [abelethan](mailto:abelethan@126.com)
