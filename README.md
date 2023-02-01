@@ -1,6 +1,6 @@
 ###  :man_technologist:  [Abelethan](https://www.abelethan.icu)
 
-👋 Hi, I'm TanMengNing,a passionate self-taught backend developer from China 🚀. 
+👋 Hello, I'm Tan Mengning, a JAVA developer from China 🚀. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
