@@ -11,6 +11,6 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java
--  **Hobbies :** ChineseChess :performing_arts: & Music :headphones:
+-  **Hobbies :**Basketball🏀&Film:cinema:& Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [abelethan](mailto:abelethan@126.com)
